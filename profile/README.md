@@ -1,8 +1,8 @@
 # Welcome to PacketHub
 Beginner-friendly IT forum for discussing computers, networking, hardware, programming, and troubleshooting.
 
-<p align="center">
-<img src="./profile/" />
+<p align="left">
+<img src="./profile/packethublogo.png" />
 </p>
 
 # PacketHub
