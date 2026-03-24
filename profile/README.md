@@ -2,7 +2,7 @@
 Beginner-friendly IT forum for discussing computers, networking, hardware, programming, and troubleshooting.
 
 <p align="left">
-<img src="./profile/packethublogo.png" />
+<img src="../profile/packethublogo.png" />
 </p>
 
 # PacketHub
