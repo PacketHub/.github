@@ -5,6 +5,8 @@ Beginner-friendly IT forum for discussing computers, networking, hardware, progr
 <img src="../profile/packethublogo.png" />
 </p>
 
+# https://packethub.vercel.app/
+
 # PacketHub
 
 PacketHub is a beginner-friendly IT forum built for people who want to learn more about computers, networking, programming, and hardware. The platform gives users a simple place to ask questions, share knowledge, and discuss technical topics in an accessible and easy-to-use environment.
